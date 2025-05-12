@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   I'm scared (oh-oh-oh)
       
       It feels like you don't care (ooh-ooh) 
@@ -23,3 +24,6 @@
       In the back of my mind, I killed you And I didn't 
 
       even regret it I can't believe I said it But it's true I hate you
+=======
+lavasca saturnus saturnita
+>>>>>>> parent of 2981396 (Revert "add text")
